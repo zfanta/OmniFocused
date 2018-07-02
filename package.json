@@ -1,0 +1,12 @@
+{
+  "name": "OmniFocused",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/zfanta/OmniFocused.git",
+  "author": "Hwantae Ji <jht008@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^6.0.1",
+    "plist": "^3.0.1"
+  }
+}
